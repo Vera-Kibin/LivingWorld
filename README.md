@@ -53,8 +53,9 @@ The world consists of a grid of tiles that can represent different environments.
 
 Water dynamically changes the environment.
 
-👉 Demo:  
-https://github.com/user-attachments/assets/fe399c12-f533-4d93-b364-464850f21415
+### Demo
+
+[▶️ Watch demo](https://github.com/user-attachments/assets/fe399c12-f533-4d93-b364-464850f21415)
 
 ### Features
 
@@ -101,8 +102,11 @@ Currently represented as symbols for simplicity (can be replaced with icons late
   - enough power is reached,
   - free tile exists.
 
-👉 Example:  
-https://github.com/user-attachments/assets/fb9d2b63-a021-48c3-ac29-7afe329780fe
+👉 Example:
+
+### Demo
+
+[▶️ Watch demo](https://github.com/user-attachments/assets/fb9d2b63-a021-48c3-ac29-7afe329780fe)
 
 ---
 
@@ -145,8 +149,11 @@ Each turn:
 2. movement / spreading happens,
 3. dead organisms are removed.
 
-👉 Example state:  
-https://github.com/user-attachments/assets/ebe4c728-c701-4ccf-9317-9b6ca20415bc
+👉 Example state:
+
+### Demo
+
+[▶️ Watch demo](https://github.com/user-attachments/assets/ebe4c728-c701-4ccf-9317-9b6ca20415bc)
 
 ---
 
