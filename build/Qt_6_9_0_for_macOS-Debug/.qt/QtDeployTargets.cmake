@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_LivingWorld_FILE /Users/verakibin/LivingWorld/build/Qt_6_9_0_for_macOS-Debug/LivingWorld.app/Contents/MacOS/LivingWorld)
+set(__QT_DEPLOY_TARGET_LivingWorld_TYPE EXECUTABLE)
