@@ -22,6 +22,17 @@ The goal was to **combine architecture + interaction**, not just write static co
 
 ---
 
+## ✨ Key Features
+
+- Interactive tile-based world editor
+- Multiple terrain types (Grass, Desert, Water)
+- Manual and automatic environment configuration
+- Turn-based ecosystem simulation
+- Dynamic organism behavior (movement, reproduction, survival)
+- Object-oriented architecture with polymorphism
+
+---
+
 ## 🌱 Terrain System
 
 The world consists of a grid of tiles that can represent different environments.
@@ -103,9 +114,6 @@ Currently represented as symbols for simplicity (can be replaced with icons late
   - free tile exists.
 
 👉 Example:
-
-### Demo
-
 [▶️ Watch demo](https://github.com/user-attachments/assets/fb9d2b63-a021-48c3-ac29-7afe329780fe)
 
 ---
